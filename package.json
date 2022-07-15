@@ -1,18 +1,16 @@
 {
-  "name": "dockerode",
-  "description": "Docker Remote API module.",
-  "version": "3.3.2",
-  "author": "Pedro Dias <petermdias@gmail.com>",
+  "name": "podmanode",
+  "description": "Podman Remote API module.",
+  "version": "0.0.1",
+  "author": "Morxi <i@morxi.com>",
   "maintainers": [
-    "apocas <petermdias@gmail.com>"
   ],
   "repository": {
     "type": "git",
     "url": "http://github.com/apocas/dockerode.git"
   },
   "keywords": [
-    "docker",
-    "docker.io"
+    "podman",
   ],
   "dependencies": {
     "docker-modem": "^3.0.0",
